@@ -3,7 +3,7 @@
     position: fixed;
     bottom: 40px;
     right: 0;
-    background-color: rgba(235, 231, 231, 0.822);
+    background-color: #002993;
     border-radius: 12px;
     width: 280px;
     display: none; 
@@ -30,7 +30,7 @@
     position: absolute;
     top: 2px;
     right: 6px;
-    background-color: rgba(235, 231, 231, 0.822); 
+    background-color: #002993; 
     color: rgb(26, 23, 23);
     border: none;
     width: 20px;
@@ -60,7 +60,7 @@
        margin-left: 20px;
        margin-right: 20px;
        font-weight:  500;
-       color: rgb(32, 30, 30);
+       color: white;
        margin-top: 0px;
     
       }
