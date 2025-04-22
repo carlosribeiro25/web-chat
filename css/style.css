@@ -3,8 +3,8 @@
     position: fixed;
     bottom: 40px;
     right: 0;
-    background-color: #002993;
-    border-radius: 12px;
+    background-color: #207bd8;
+    border-radius: 30px;
     width: 280px;
     display: none; 
     height: 420px;
@@ -30,8 +30,8 @@
     position: absolute;
     top: 2px;
     right: 6px;
-    background-color: #002993; 
-    color: rgb(26, 23, 23);
+    background-color: #207bd8; 
+    color: rgb(241, 234, 234);
     border: none;
     width: 20px;
     height:20px;
@@ -89,7 +89,7 @@
         border: none;
         align-items: center;
         margin-left: 25px;
-        background-color: rgb(249, 57, 9);
+        background-color: rgb(32, 31, 30);
         color: white;
         margin-bottom: 40px;
         font-size: larger;
