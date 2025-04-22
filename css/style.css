@@ -3,7 +3,7 @@
     position: fixed;
     bottom: 40px;
     right: 0;
-    background-color: rgba(226, 213, 213, 0.53);
+    background-color: rgba(235, 231, 231, 0.822);
     border-radius: 12px;
     width: 280px;
     display: none; 
@@ -30,7 +30,7 @@
     position: absolute;
     top: 2px;
     right: 6px;
-    background-color:  rgba(160, 146, 146, 0.527); 
+    background-color: rgba(235, 231, 231, 0.822); 
     color: rgb(26, 23, 23);
     border: none;
     width: 20px;
@@ -60,7 +60,7 @@
        margin-left: 20px;
        margin-right: 20px;
        font-weight:  500;
-       color: white;
+       color: rgb(32, 30, 30);
        margin-top: 0px;
     
       }
@@ -74,6 +74,7 @@
         margin-left: 25px;
         font-size: small;
         font-size: larger;
+        color: black;
 
       }
       input:hover {
